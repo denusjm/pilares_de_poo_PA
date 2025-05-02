@@ -1,6 +1,7 @@
 # pilares_de_poo_PA
 Pregunta teórica:
 ¿Cuáles son los 4 pilares de la programación orientada a objetos y qué aporta cada uno?
+
 ✅Mini autoevaluación
 1. ¿Cuál es la diferencia entre encapsulamiento y abstracción?
 2. ¿Qué pilar permite a las subclases sobrescribir métodos?
