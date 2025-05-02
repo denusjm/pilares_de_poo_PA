@@ -1,0 +1,11 @@
+Los cuatro pilares de la POO son: 
+-Abstracción: que oculta la complejidad del sistema, muestra solo lo que es relevante para el usuario. 
+-Encapsulamiento: Protege la información del código y se puede acceder mediante el uso de atributos. 
+-Polimorfismo: Da la orden a diferentes objetos para que respondan de diferentes maneras. 
+-Herencia: Permite que una clase herede atributos de otra, esto facilita la reutilización del código. 
+
+1. Las diferencias son, el encapsulamiento se enfoca en la seguridad de datos del sistema, oculta datos internos y la abstracción simplifica el sistema y oculta esta información 
+al usuario. 
+2. El polimorfismo permite que un mismo metodo tenga diferentes comportamientos segun la clase que lo implemente. 
+
+-El pilar que domino mejor es la Herencia y el que me cuesta aplicar es el de Encapsulamiento. 
