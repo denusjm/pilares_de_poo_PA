@@ -8,7 +8,7 @@ Pregunta teórica:
 Define una jerarquía simple para vehículos con al menos una clase base y dos clases hijas.
 Cada clase hija debe tener un método propio sobrescrito que imprima información
 diferente. Crea una función que reciba un vehículo y llame a ese método.
-� Reflexión individual
+4. Reflexión individual
 ¿Qué pilar sentís que dominás mejor? ¿Cuál te cuesta más aplicar en la práctica?
-� Desafío opcional
+5. Desafío opcional
 Agregá encapsulamiento con atributos privados y métodos get y set.
